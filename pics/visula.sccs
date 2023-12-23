@@ -1,0 +1,13 @@
+(0, 0)       (x, 0)
+  +------------+
+  |            |
+  |            |
+  |            |
+  |            |
+  +------------+
+(0, y)       (x, y)
+
+
+
+
+this is normally how the image pixels are accesed
